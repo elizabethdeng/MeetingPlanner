@@ -12,6 +12,8 @@ import com.google.android.maps.MapView;
 import com.google.android.maps.Overlay;
 import com.google.android.maps.OverlayItem;
 
+
+sd
 public class MeetingPlanner extends MapActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
